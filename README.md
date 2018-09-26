@@ -1,0 +1,1 @@
+# Xliff loader for webpack
